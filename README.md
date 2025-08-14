@@ -18,11 +18,6 @@
 </h1>
 <h3 align="center">A Passionate Software Engineer from Kamra</h3>
 
-<!-- Optional: A cool banner image -->
-<p align="center">
-  <img src="https://i.imgur.com/gFVk6rT.gif" alt="Coding Banner" width="80%">
-</p>
-
 ---
 
 ### 👨‍💻 About Me
