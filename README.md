@@ -1,5 +1,5 @@
 <!-- 
-  Hi there! Thanks for using this template. 
+  Hi there!
   
   To personalize it, you'll need to do a few things:
   1.  Replace `YOUR_USERNAME` with your actual GitHub username in the stats links.
@@ -14,9 +14,9 @@
 <!-- Header Section -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-  Hi, I'm [Your Name]
+  Hi, I'm Sayam
 </h1>
-<h3 align="center">A Passionate Software Engineer from [Your Location]</h3>
+<h3 align="center">A Passionate Software Engineer from Kamra</h3>
 
 <!-- Optional: A cool banner image -->
 <p align="center">
@@ -34,7 +34,7 @@ I'm a versatile Software Engineer with a deep passion for building robust and sc
 - 👯 I’m looking to collaborate on **innovative open-source projects, especially in the AI or automation space.**
 - 🤔 I’m looking for help with **optimizing database queries for large-scale applications.**
 - 💬 Ask me about **Node.js, Python, Discord.js, WebSockets, or REST API design.**
-- 📫 How to reach me: **[your.email@example.com]** or find me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/).
+- 📫 How to reach me: **[skyland98765766@gmail.com]** or find me on discord username: sayamdev.apk
 - ⚡ Fun fact: **I can solve a Rubik's cube in under a minute!**
 
 ---
@@ -78,14 +78,14 @@ Here are some of the technologies I'm proficient in.
   dracula, tokyonight, gruvbox, radical, merko, onedark
 -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="Your GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayamcoder&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="Your GitHub Stats" />
   <br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayamcoder&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <!-- Optional: A contribution graph -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayamcoder&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -107,13 +107,13 @@ Here are some of the projects I'm proud of. You can find more on my repositories
 I'm always open to connecting with fellow developers and tech enthusiasts. Feel free to reach out!
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
+  <a href="not availbe" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
+  <a href="not availbe" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://your-portfolio-website.com" target="_blank">
+  <a href="https://https://sayamportfolioweb.netlify.app/.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=domain&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
